@@ -11,6 +11,6 @@ def is_pangram(s):
 print(is_pangram("The quick brown fox jumps over the lazy dog"))  # True
 print(is_pangram("Hello, world!"))  # False
 print(is_pangram("abcdefghijklmnopqrstuvwxyz"))  # True
-#THIS IS PANGRAM CHECK
-
+#THIS IS PANGRAM 
+#end
 
